@@ -6,7 +6,7 @@ nose==1.3.7
 mock==2.0.0
 future==0.16.0
 python-memcached==1.59
-diskcache
+diskcache==3.0.6
 pyswagger>=0.8.31
 requests
 six
